@@ -3,7 +3,7 @@
 ### Five adversarial steelmans in financial-sector technology, and a cross-sector convergence on verifiable trust
 
 **Author:** Zain Dana Harper · independent researcher, Seattle · ORCID [0009-0001-7175-5393](https://orcid.org/0009-0001-7175-5393)
-**License:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+**License:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) · **DOI:** [10.5281/zenodo.20778927](https://doi.org/10.5281/zenodo.20778927)
 **Companion:** *Conferred Existence* (philosophy corpus) — [Zenodo 10.5281/zenodo.20773724](https://doi.org/10.5281/zenodo.20773724)
 
 ---
@@ -40,7 +40,7 @@ This is AI-assisted research substrate. Web-grounded research agents performed s
 
 ## Citation
 
-> Harper, Z. D. (2026). *The Witnessing Spine: Five Adversarial Steelmans in Financial-Sector Technology and a Cross-Sector Convergence on Verifiable Trust.* [DOI on deposit].
+> Harper, Z. D. (2026). *The Witnessing Spine: Five Adversarial Steelmans in Financial-Sector Technology and a Cross-Sector Convergence on Verifiable Trust.* Zenodo. https://doi.org/10.5281/zenodo.20778927
 
 ## Contents
 
