@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/brand/witnessing-spine-hero.png" alt="Witnessing Spine: Financial-Tech Steelman Corpus">
+</p>
+
 # The Witnessing Spine
 
 ### Five adversarial steelmans in financial-sector technology, and a cross-sector convergence on verifiable trust
