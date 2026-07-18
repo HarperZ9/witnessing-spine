@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/brand/witnessing-spine-hero.png" alt="Witnessing Spine: Financial-Tech Steelman Corpus">
+  <img src=".github/assets/zentropy-banner.png" alt="Witnessing Spine: Financial-Tech Steelman Corpus">
 </p>
 
 # The Witnessing Spine
@@ -58,3 +58,7 @@ RUN-004-defi-trustlessness-steelman.md
 RUN-005-enterprise-attestation-assurance-steelman.md
 MANIFEST.sha256                            integrity / priority manifest
 ```
+
+---
+
+**[Zentropy Labs](https://github.com/ZentropyLabs-ai)** · order out of entropy. An independent lab building evidence-first tools that leave a re-checkable artifact behind. Built by Zain Dana Harper in Seattle. The full workbench is at [Project Telos](https://harperz9.github.io).
