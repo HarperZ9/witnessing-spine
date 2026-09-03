@@ -284,3 +284,14 @@ def test_each_run_is_sealed_under_the_name_the_readme_lists(name: str) -> None:
     sealed = {rel for _, rel in _module()._parse(_MANIFEST.read_text(encoding="utf-8"))}
     assert name in sealed
     assert name in (_REPO / "README.md").read_text(encoding="utf-8")
+
+
+def test_every_sealed_document_is_lf_so_a_fresh_clone_derives_these_digests() -> None:
+    """A digest is over bytes, and .gitattributes gives every checkout LF endings. A file
+    left CRLF in the working tree hashes to something no clone reproduces, so the seal
+    would say DRIFT to the first stranger who ran it while looking clean here."""
+    assert "eol=lf" in (_REPO / ".gitattributes").read_text(encoding="utf-8")
+    crlf = bytes([13, 10])
+    for _, name in _module()._parse(_MANIFEST.read_text(encoding="utf-8")):
+        assert crlf not in (_REPO / name).read_bytes(), name
+    assert crlf not in _MANIFEST.read_bytes()
