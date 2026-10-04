@@ -1,8 +1,18 @@
-<p align="center">
-  <img src="docs/art/witnessing-spine-header.svg" alt="The Witnessing Spine" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarperZ9/witnessing-spine/main/docs/art/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/HarperZ9/witnessing-spine/main/docs/art/hero-light.svg" alt="witnessing-spine: Five adversarial steelmans of financial-sector tech claims, sealed. A fan of ruled sheets drawn in fine lines, the top sheet lit by a bright core." width="100%">
+</picture>
 
-# The Witnessing Spine
+# witnessing-spine
+
+Five adversarial steelmans of financial-sector tech claims, sealed.
+
+```
+python verify_manifest.py
+```
+
+[![license](https://img.shields.io/badge/license-CC_BY_4.0-e6e1d6?style=flat-square&labelColor=1a1712)](https://github.com/HarperZ9/witnessing-spine/blob/main/LICENSE)
+![python](https://img.shields.io/badge/language-python-e6e1d6?style=flat-square&labelColor=1a1712)
 
 ### Five adversarial steelmans in financial-sector technology, and a cross-sector convergence on verifiable trust
 
